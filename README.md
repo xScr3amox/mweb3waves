@@ -1,2 +1,2 @@
 # mweb3waves
-ssss
+Tmp demo Mastering Web3 with Waves app
